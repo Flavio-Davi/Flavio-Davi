@@ -1,27 +1,38 @@
-# 👋 Olá! Eu sou o Flávio Davi
+# 👋 Olá, meu nome é Flávio Davi!
 
-🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas no Instituto Federal do Piauí (IFPI), apaixonado por tecnologia e sempre em busca de novos conhecimentos.
+<img src="https://img.shields.io/static/v1?label=Overview&message=FLAVIO-DAVI&color=1a1b27&style=for-the-badge&logo=GitHub" alt="GitHub Overview Badge">
 
-📊 Atualmente, estou cursando o [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics), onde estou desenvolvendo habilidades em:
+<p>
+  🎓 Estudante de Desenvolvimento de Sistemas no <strong>IFPI</strong> <br/>
+  📊 Cursando o <strong>Google Data Analytics Professional Certificate</strong> <br/>
+  💡 Desenvolvedor focado em <strong>Python, SQL e Análise de Dados</strong>
+</p>
 
-- **Limpeza e organização de dados**
-- **Análise e visualização de dados**
-- **Ferramentas como Spreadsheets, SQL, R e Tableau**
-- **Pensamento analítico e resolução de problemas**
-- **Comunicação eficaz de insights**
+---
+
+## 🛠️ Habilidades
+
+- **Linguagens:** Python, SQL, R
+- **Ferramentas:** Git, GitHub, Tableau, Google Sheets
+- **Conceitos:** Limpeza de dados, visualização, storytelling, automações
+
+---
 
 ## 🚀 Projetos em Destaque
 
-- [Sistema Bancário](https://github.com/Flavio-Davi/sistema_bancario): Uma aplicação simples de sistema bancário desenvolvida em Python.
-- [Projetos Pessoais](https://github.com/Flavio-Davi/Projetos_Pessoais): Repositório com diversos projetos criados para praticar e explorar novas bibliotecas e conceitos.
-- [TDS-IFPI](https://github.com/Flavio-Davi/TDS-IFPI): Atividades e projetos desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas no IFPI.
-- [DIO Lab Open Source](https://github.com/Flavio-Davi/dio-lab-open-source): Participação em projeto open source da Digital Innovation One.&#8203;:contentReference[oaicite:2]{index=2}
+- 🔐 [Sistema Bancário](https://github.com/Flavio-Davi/sistema_bancario)
+- 🧪 [Projetos Pessoais](https://github.com/Flavio-Davi/Projetos_Pessoais)
+- 📘 [TDS-IFPI](https://github.com/Flavio-Davi/TDS-IFPI)
+- 🤝 [DIO Lab Open Source](https://github.com/Flavio-Davi/dio-lab-open-source)
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-- **Linguagens:** :contentReference[oaicite:3]{index=3}
-- **Ferramentas:** :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}
+## 📊 GitHub Stats
+
+[![card](https://github-readme-stats.vercel.app/api?username=Flavio-Davi&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/flavio-davi-136852222/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-davi-136852222/)
