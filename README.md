@@ -3,9 +3,10 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=FLAVIO-DAVI&color=1a1b27&style=for-the-badge&logo=GitHub" alt="GitHub Overview Badge">
 
 <p>
-  🎓 Estudante de Desenvolvimento de Sistemas no <strong>IFPI</strong> <br/>
-  📊 Cursando o <strong>Google Data Analytics Professional Certificate</strong> <br/>
-  💡 Desenvolvedor focado em <strong>Python, SQL, FastAPI e Análise de Dados</strong>
+  🎓 Técnico em Desenvolvimento de Sistemas formado pelo <strong>IFPI</strong> <br/>
+  🎓 Graduando em Gestão de Dados na <strong>UFPI</strong> <br/>
+  📊 Certificado no <strong>Google Data Analytics Professional Certificate</strong> <br/>
+  💡 Profissional focado em <strong>Análise de Dados, Python, SQL e FastAPI</strong>
 </p>
 
 ---
@@ -33,16 +34,16 @@
 - **Análise de Dados** – identificar padrões, tendências e gerar insights úteis  
 - **Visualização de Dados** – criar gráficos e dashboards informativos  
 - **Storytelling com Dados** – transformar dados em narrativas claras e impactantes  
-- **Automação de Tarefas** – uso de scripts para eliminar processos manuais
+- **Automação de Tarefas** – uso de scripts (Python/SQL) para otimizar processos
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🔐 [Sistema Bancário](https://github.com/Flavio-Davi/sistema_bancario)
-- 🧪 [Projetos Pessoais](https://github.com/Flavio-Davi/Projetos_Pessoais)
-- 📘 [TDS-IFPI](https://github.com/Flavio-Davi/TDS-IFPI)
-- 🤝 [DIO Lab Open Source](https://github.com/Flavio-Davi/dio-lab-open-source)
+- 🔐 [Sistema Bancário](https://github.com/Flavio-Davi/sistema_bancario) - *Sistema desenvolvido em [Linguagem principal do projeto]*
+- 🧪 [Projetos Pessoais](https://github.com/Flavio-Davi/Projetos_Pessoais) - *Repositório com diversos scripts e análises*
+- 📘 [TDS-IFPI](https://github.com/Flavio-Davi/TDS-IFPI) - *Projetos e atividades do curso técnico no IFPI*
+- 🤝 [DIO Lab Open Source](https://github.com/Flavio-Davi/dio-lab-open-source) - *Contribuições open source*
 
 ---
 
